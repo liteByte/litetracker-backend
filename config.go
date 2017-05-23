@@ -1,5 +1,6 @@
 package main
 
+// This is an example, normally these would be env vars
 var defaultPort string = "8000"
 
 var dbHost string = "us-cdbr-iron-east-03.cleardb.net"
